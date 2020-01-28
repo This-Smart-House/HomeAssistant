@@ -1,14 +1,15 @@
 # Home Assistant
-
-[![Build Status](https://travis-ci.org/RyanAHolland/Home-AssistantConfig.svg?branch=master)](https://travis-ci.org/RyanAHolland/Home-AssistantConfig)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](http://choosealicense.com/licenses/mit/)
-[![GitHub issues](https://img.shields.io/github/issues/RyanAHolland/Home-AssistantConfig.svg)](https://github.com/RyanAHolland/Home-AssistantConfig/issues)
-[![GitHub stars](https://img.shields.io/github/stars/RyanAHolland/Home-AssistantConfig.svg)](https://github.com/RyanAHolland/Home-AssistantConfig/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/RyanAHolland/Home-AssistantConfig.svg)](https://github.com/RyanAHolland/Home-AssistantConfig/network)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/RyanAHolland/Home-AssistantConfig.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FRyanAHolland%2FHome-AssistantConfig)
+[![GitHub issues](https://img.shields.io/github/issues/This-Smart-House/HomeAssistant.svg)](https://github.com/This-Smart-House/HomeAssistant/issues)
+[![GitHub stars](https://img.shields.io/github/issues/This-Smart-House/HomeAssistant.svg)](https://github.com/This-Smart-House/HomeAssistant/stargazers)
+[![GitHub forks](https://img.shields.io/github/issues/This-Smart-House/HomeAssistant.svg)](https://github.com/This-Smart-House/HomeAssistant/network)
 
 
-My personal Home Assistant configuration
+My Home Assistant configuration for This Smart House.  I will try and limit commits to when a video drops.
+
+Our YouTube Channel: [This Smart House](https://www.youtube.com/channel/UCGaAf70zQAa01a_r_k1XJ1Q)
+
+Our Website: [https://thissmart.house](https://thissmart.house)
 
 Feel free to suggest improvements/changes using the issues, or even a pull request!
 
