@@ -909,5 +909,4 @@
       brightness_pct: 60
       entity_id: light.liam_lamp
       transition: 15
-
     service: python_script.fade_in_light_2
